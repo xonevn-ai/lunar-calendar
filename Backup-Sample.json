@@ -1,0 +1,158 @@
+{
+    "version": "1.0.0",
+    "backupDate": "2025-12-24T11:37:57.638",
+    "settings": {
+        "themeMode": 0,
+        "selectedTheme": "default",
+        "notificationsEnabled": false,
+        "cloudSyncEnabled": true,
+        "weekStart": 1,
+        "defaultView": "month",
+        "reminderTimeHour": 21,
+        "reminderTimeMinute": 0
+    },
+    "notes": [
+    ],
+    "quotes": [
+        {
+            "id": "cde2ab92-9d7f-4041-aa78-f077f2faaad8",
+            "text": "Thời gian là vàng bạc, nhưng vàng bạc không mua được thời gian.",
+            "author": null,
+            "createdAt": "2025-12-24T11:13:08.649",
+            "isCustom": false
+        },
+        {
+            "id": "0cf6a678-a42e-4b4b-a5a8-11e621d7d0b7",
+            "text": "Mỗi ngày là một cơ hội mới để bắt đầu lại.",
+            "author": null,
+            "createdAt": "2025-12-24T11:13:08.655",
+            "isCustom": false
+        },
+        {
+            "id": "f60b4582-24fa-4963-b742-8474684519d6",
+            "text": "Hôm nay là ngày tốt nhất để làm những điều bạn muốn.",
+            "author": null,
+            "createdAt": "2025-12-24T11:13:08.657",
+            "isCustom": false
+        },
+        {
+            "id": "d75a879c-f543-4bb8-ad94-66875a7cb216",
+            "text": "Thời gian trôi qua nhanh như gió, hãy trân trọng từng khoảnh khắc.",
+            "author": null,
+            "createdAt": "2025-12-24T11:13:08.658",
+            "isCustom": false
+        },
+        {
+            "id": "902ed434-9eeb-4c73-b8a1-5dcf961456ef",
+            "text": "Ngày hôm nay là món quà, đó là lý do tại sao nó được gọi là hiện tại.",
+            "author": null,
+            "createdAt": "2025-12-24T11:13:08.659",
+            "isCustom": false
+        },
+        {
+            "id": "2a89e1c6-e70d-44e1-be7f-d4d1d46f3ae8",
+            "text": "Mỗi ngày mới là một trang sách trắng, hãy viết nên câu chuyện đẹp.",
+            "author": null,
+            "createdAt": "2025-12-24T11:13:08.660",
+            "isCustom": false
+        },
+        {
+            "id": "dce1e96c-4f71-4f67-926b-4b4c5f9fd249",
+            "text": "Thời gian là thứ quý giá nhất mà chúng ta có.",
+            "author": null,
+            "createdAt": "2025-12-24T11:13:08.661",
+            "isCustom": false
+        },
+        {
+            "id": "96b81531-f96d-400c-8b64-0c409a07c501",
+            "text": "Hãy sống trọn vẹn từng ngày, vì ngày hôm qua đã qua và ngày mai chưa đến.",
+            "author": null,
+            "createdAt": "2025-12-24T11:13:08.663",
+            "isCustom": false
+        },
+        {
+            "id": "2bb9e064-ebff-4518-88dc-792b9c059873",
+            "text": "Mỗi buổi sáng là một khởi đầu mới, đầy hy vọng và cơ hội.",
+            "author": null,
+            "createdAt": "2025-12-24T11:13:08.666",
+            "isCustom": false
+        },
+        {
+            "id": "ca5a67a7-b999-4e2e-8d2a-14d4e73a6723",
+            "text": "Thời gian không chờ đợi ai, hãy làm những gì bạn muốn ngay hôm nay.",
+            "author": null,
+            "createdAt": "2025-12-24T11:13:08.668",
+            "isCustom": false
+        },
+        {
+            "id": "1bca6520-20f6-47dd-a8f7-200824d55f22",
+            "text": "Ngày hôm nay là ngày quan trọng nhất trong cuộc đời bạn.",
+            "author": null,
+            "createdAt": "2025-12-24T11:13:08.670",
+            "isCustom": false
+        },
+        {
+            "id": "59f65229-eec7-445f-b300-ef9b7268b035",
+            "text": "Hãy biết ơn vì mỗi ngày mới, vì đó là cơ hội để sống tốt hơn.",
+            "author": null,
+            "createdAt": "2025-12-24T11:13:08.671",
+            "isCustom": false
+        },
+        {
+            "id": "a3e90297-df00-4b5a-bd24-ac54165e01f7",
+            "text": "Thời gian là thầy dạy tốt nhất, nhưng nó giết tất cả học trò của mình.",
+            "author": null,
+            "createdAt": "2025-12-24T11:13:08.672",
+            "isCustom": false
+        },
+        {
+            "id": "8503d3df-6e88-4b14-a8e5-f95345432351",
+            "text": "Mỗi ngày là một món quà, hãy mở nó với niềm vui và lòng biết ơn.",
+            "author": null,
+            "createdAt": "2025-12-24T11:13:08.674",
+            "isCustom": false
+        },
+        {
+            "id": "f2edeeb7-4680-4b3f-b4b5-8451ef0a01a0",
+            "text": "Hãy sống như thể hôm nay là ngày cuối cùng của bạn.",
+            "author": null,
+            "createdAt": "2025-12-24T11:13:08.675",
+            "isCustom": false
+        },
+        {
+            "id": "931b6ccd-c8a4-4762-b0a4-8518c1f42bb0",
+            "text": "Thời gian là thứ duy nhất không thể mua lại được.",
+            "author": null,
+            "createdAt": "2025-12-24T11:13:08.680",
+            "isCustom": false
+        },
+        {
+            "id": "253dff31-d128-4f49-80f3-a6a7a8665f82",
+            "text": "Mỗi khoảnh khắc đều quý giá, hãy trân trọng nó.",
+            "author": null,
+            "createdAt": "2025-12-24T11:13:08.681",
+            "isCustom": false
+        },
+        {
+            "id": "c660a76a-f748-4b84-8d93-0d738d5f8701",
+            "text": "Ngày hôm nay là ngày tốt nhất để bắt đầu một điều gì đó mới.",
+            "author": null,
+            "createdAt": "2025-12-24T11:13:08.682",
+            "isCustom": false
+        },
+        {
+            "id": "27c15331-0b5e-422b-9d8c-b95b9d44c82b",
+            "text": "Thời gian trôi qua không bao giờ quay lại, hãy sống trọn vẹn.",
+            "author": null,
+            "createdAt": "2025-12-24T11:13:08.684",
+            "isCustom": false
+        },
+        {
+            "id": "75098a15-dae8-421a-92e1-09c91ebd0783",
+            "text": "Mỗi ngày mới là một cơ hội để trở thành phiên bản tốt hơn của chính mình.",
+            "author": null,
+            "createdAt": "2025-12-24T11:13:08.685",
+            "isCustom": false
+        }
+    ]
+}
